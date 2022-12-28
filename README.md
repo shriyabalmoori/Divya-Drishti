@@ -1,8 +1,8 @@
-#  Advance-HealthCare-Monitoring-System !
+#  Divya Drishti !
 
 
 
-# Advance-HealthCare-Monitoring-System Recognition Classifier Model :
+# Divya Drishti Recognition Classifier Model :
 
 Facial expression for emotion detection has always been an easy task for humans, but achieving the same task with a computer algorithm is quite challenging. With the recent advancement in computer vision and machine learning, it is possible to detect emotions from images.In this project,we propose a novel technique called Health-Monitor recognition using convolutional neural networks,python and flask. Facial expressions are the vital identifiers for human feelings, because it corresponds to the emotions. Most of the times (roughly in 55% cases), the facial expression is a nonverbal way of emotional expression, and it can be considered as concrete evidence to uncover whether an individual is speaking the truth or not.
 
@@ -23,9 +23,9 @@ Facial expression for emotion detection has always been an easy task for humans,
 
 ## :boom: Getting Started: Steps to run the Project in your local device !!
 - Clone the repository to your System using `git clone`
-- Example : `git clone https://github.com/princegup678/Advance-HealthCare-Monitoring-System`
+- Example : `git clone https://github.com/shriyabalmoori/Divya-Drishti
 - Create a new [Virtual Environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) with python 3.7.0 version.
-- Go in Health-Monitor folder using `cd Advance-HealthCare-Monitoring-System`
+- Go in Health-Monitor folder using `cd DivyaDrishti`
 - Install all the dependencies with `pip install -r requirements.txt`.
 - Update your voyage credentials in `camera.py` .
 - Now run the `main.py` file.
@@ -56,11 +56,10 @@ and putting text of its emotion on it.
 deploys our application using *Flask*.
 <img src="https://miro.medium.com/max/1864/1*oURfHMP1--ttXnDx0heusg.png">
 
-### Excited to contribute to the Project ? Head over Open Issues [here](https://github.com/princegup678)
+### Excited to contribute to the Project ? Head over Open Issues [here](https://github.com/shriyabalmoori)
 
 ## Project Admin :point_down:
 
 
-[![](https://media-exp1.licdn.com/dms/image/C5603AQE6Qb0IjivwtQ/profile-displayphoto-shrink_400_400/0/1591760521975?e=1635379200&v=beta&t=d6SmCv7CcAW3H_zzECOw6uJdRyUwSgEZuWkwe3Qlw6k)](https://github.com/princegup678)
 
-[Prince Kumar](https://www.linkedin.com/in/princegup678/)
+[Shriya Balmoori](https://www.linkedin.com/in/shriya-balmoori/)
